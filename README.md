@@ -1,6 +1,6 @@
 <!-- ![alt-text-1]("title-1") ![alt-text-2](image2.png "title-2") -->
 The implementation of EACL 2023 paper 
-["RevUp: Revise and Update Information Bottleneck for Event Representation".](https://arxiv.org/pdf/2010.04361.pdf)
+["RevUp: Revise and Update Information Bottleneck for Event Representation".](https://arxiv.org/pdf/2205.12248.pdf)
 
 <img src="figs/ RevUpModel.png" width="800" height="400"/>
 
