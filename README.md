@@ -2,7 +2,7 @@
 The implementation of EACL 2023 paper 
 ["RevUp: Revise and Update Information Bottleneck for Event Representation".](https://arxiv.org/pdf/2010.04361.pdf)
 
-<img src="figs/ RevUpModel.png" width="600" height="200"/>
+<img src="figs/ RevUpModel.png" width="800" height="400"/>
 
 This Pytorch code implements the model and reproduces the results from the paper.
 # Conda Environment:
